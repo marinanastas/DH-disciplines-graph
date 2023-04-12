@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Марина Настас"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "DH дисциплины"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Предметы находятся в одной образовательной программе",
+    "colorLabel": "Вес ребра",
+    "nodeLabel": "Название предмета"
   },
   "features": {
     "search": true,
